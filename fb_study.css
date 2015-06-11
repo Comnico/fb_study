@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn {
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.btn-info {
+  background-color: #3498db;
+  box-shadow: 0px 3px 0px 0px #3468bb !important
+}
+
+.header {
+  background-color: #444;
+  padding: 5px 47px;
+  font-size: 24px;
+  color: #fff;
+}
+
+.login-area {
+  text-align: center;
+}
+
+.footer {
+  padding-left: 47px;
+  position: absolute;
+  bottom: 15px;
+}
+
+.footer a {
+  font-size: 14px;
+  color: #aaa;
+}
