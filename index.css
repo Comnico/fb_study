@@ -4,6 +4,9 @@ body {
 
 a {
   text-decoration: none;
+}
+
+a:visited {
   color: #fff;
 }
 
@@ -24,8 +27,16 @@ a {
   color: #fff;
 }
 
+.header a {
+  color: #ccc;
+}
+
 .login-area {
   text-align: center;
+}
+
+.login-area a {
+  color: #fff;
 }
 
 .footer {
