@@ -21,7 +21,7 @@
   <div class="contents">
     <div class="login-area">
       <p>ソーシャルアカウントでログイン</p>
-      <a href="#" class="btn btn-info">Facebookログイン</a>
+      <a href="login.php" class="btn btn-info">Facebookログイン</a>
     </div>
   </div>
   <div class="footer">
