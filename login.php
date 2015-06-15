@@ -11,7 +11,7 @@ use Facebook\FacebookRedirectLoginHelper;
 session_start();
 
 // FBへ接続してセッション取得
-FacebookSession::setDefaultApplication('906785069367923','2c3af85ea3935179baf1789974502a21');
+FacebookSession::setDefaultApplication('APP_ID','APP_SECRET');
 
 // ログイン後のリダイレクトURLを設定
 $helper = new FacebookRedirectLoginHelper('http://local.fbauth/login.php');
